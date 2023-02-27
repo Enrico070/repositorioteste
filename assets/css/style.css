@@ -14,8 +14,13 @@ form{
 }
 #alt01{
     border: double;
+    margin-bottom: 30px;
 
 }
 #email01{
     border: ridge;
+}
+#alt01:focus{
+    border-style: none;
+    outline: 0;
 }
