@@ -12,6 +12,10 @@ form{
 #sub1:hover{
     background-color: aqua;
 }
-#but1{
+#alt01{
+    border: double;
 
+}
+#email01{
+    border: ridge;
 }
